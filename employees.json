@@ -1,0 +1,13 @@
+{"_id":{"$oid":"596c9f13d45cefb84a96a428"},"empno":7369.0,"ename":"SMITH","job":"CLERK","hiredate":{"$date":"1980-12-16T15:00:00.000Z"},"sal":800.0,"bonus":300.0,"deptno":20.0}
+{"_id":{"$oid":"596c9f13d45cefb84a96a429"},"empno":7521.0,"ename":"WARD","job":"SALESMAN","hiredate":{"$date":"1981-02-21T15:00:00.000Z"},"sal":1250.0,"bonus":80.0,"comm":500.0,"deptno":30.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a42a"},"empno":7566.0,"ename":"JONES","job":"MANAGER","hiredate":{"$date":"1981-04-01T15:00:00.000Z"},"sal":2975.0,"bonus":500.0,"deptno":20.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a42b"},"empno":7654.0,"ename":"MARTIN","job":"SALESMAN","hiredate":{"$date":"1981-09-27T15:00:00.000Z"},"sal":1250.0,"bonus":330.0,"comm":1400.0,"deptno":30.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a42c"},"empno":7698.0,"ename":"BLAKE","job":"MANAGER","hiredate":{"$date":"1981-04-30T15:00:00.000Z"},"sal":2850.0,"bonus":450.0,"deptno":30.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a42d"},"empno":7782.0,"ename":"CLARK","job":"MANAGER","hiredate":{"$date":"1981-06-08T15:00:00.000Z"},"sal":2450.0,"bonus":900.0,"deptno":10.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a42e"},"empno":7788.0,"ename":"SCOTT","job":"ANALYST","hiredate":{"$date":"1987-11-12T15:00:00.000Z"},"sal":3000.0,"bonus":100.0,"deptno":20.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a42f"},"empno":7839.0,"ename":"PRESIDENT","job":"CEO","hiredate":{"$date":"1981-11-16T15:00:00.000Z"},"sal":5000.0,"bonus":200.0,"deptno":10.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a430"},"empno":7844.0,"ename":"TURNER","job":"SALESMAN","hiredate":{"$date":"1981-09-07T15:00:00.000Z"},"sal":1500.0,"bonus":300.0,"deptno":30.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a431"},"empno":7876.0,"ename":"ADAMS","job":"CLERK","hiredate":{"$date":"1987-06-02T15:00:00.000Z"},"sal":1100.0,"bonus":100.0,"deptno":20.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a432"},"empno":7900.0,"ename":"JAMES","job":"CLERK","hiredate":{"$date":"1981-12-02T15:00:00.000Z"},"sal":950.0,"bonus":130.0,"deptno":30.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a433"},"empno":7902.0,"ename":"FORD","job":"ANALYST","hiredate":{"$date":"1981-12-02T15:00:00.000Z"},"sal":3000.0,"bonus":400.0,"deptno":20.0}
+{"_id":{"$oid":"596c9f14d45cefb84a96a434"},"empno":7934.0,"ename":"CLERK","job":"CLERK","hiredate":{"$date":"1982-01-22T15:00:00.000Z"},"sal":1300.0,"bonus":200.0,"deptno":10.0}
